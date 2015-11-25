@@ -24,7 +24,7 @@ var data = [
  period : "evening",
  temperature : 33,
  condition: "sunny"
-},
+},   
 {
  day : "Thursday",
  period : "morning",
@@ -49,7 +49,6 @@ var data = [
  temperature : 30,
  condition: "sunny-cloudy"
 },
- 
 {
  day : "Friday",
  period : "morning",
@@ -74,7 +73,6 @@ var data = [
  temperature : 31,
  condition : "sunny-rainy"
 },
-
 {
  day : "Saturday",
  period : "morning",
@@ -99,5 +97,4 @@ var data = [
  temperature : 29,
  condition : "cloudy"
 }
-  
 ];
